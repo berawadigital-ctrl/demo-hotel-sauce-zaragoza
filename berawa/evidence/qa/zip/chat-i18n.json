@@ -1,0 +1,448 @@
+{
+ "url": "http://127.0.0.1:35615/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué tipos de habitación hay?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay habitaciones dobles (superiores con dos o tres balcones y de confort), triples y familiares. La doble superior de tres balcones admite d"
+    },
+    {
+     "q": "¿Hay wifi y caja fuerte?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las habitaciones tienen wifi, aire acondicionado, TV, caja fuerte y baño completo. El hotel tiene recepción y cafetería de 24 horas."
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "La habitación está disponible a las 14:00 h y la hora de salida es a las 11:30 h. Si llegas antes, hay instalaciones para dejar las maletas;"
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Su web indica que el hotel no puede acomodar mascotas."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "El hotel tiene servicio de parking (con precio por día; consúltalo al reservar). Si vienes en coche, puedes llegar hasta la puerta, donde ha"
+    },
+    {
+     "q": "¿Hay desayunos sin gluten?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Hay desayunos dulces, salados, saludables o pasteleros, también sin gluten (aptos para celiacos) y veganos, con las mermeladas premiadas del"
+    },
+    {
+     "q": "¿Cómo llego desde la estación?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en la calle Espoz y Mina 33, 50003 Zaragoza, en el casco histórico, a 100 metros de la plaza del Pilar. Desde la estación de autobuses "
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Su web da el mejor precio reservando en la web, por teléfono o por WhatsApp, con un 6% de descuento en estancias de 1 a 3 noches y un 10% de"
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Teléfono fijo +34 976 20 50 50; teléfono y WhatsApp +34 689 74 27 56 (24 horas); correo hotelsauce@hotelsauce.com."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sus términos de uso indican como denominación social EDIFICIO GARFE, S.L.U. (CIF B50113430), con nombre comercial Hotel Sauce y domicilio en"
+    },
+    {
+     "q": "¿Hay tarifas para empresas?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Su web tiene un programa para empresas y grupos que trabajan en Zaragoza, con tarifa personalizada todo el año, con y sin desayuno, y atenci"
+    },
+    {
+     "q": "¿Tienen cuna para bebés?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sí: su web indica servicio de cuna gratuito, bajo petición al reservar, y también bañera para bebés. Entre los servicios figuran cuna y tron"
+    },
+    {
+     "q": "¿Tienen pastelería?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Hotel Sauce se presenta como «hotel pastelería»: elabora sus propias tartas en su pastelería y tiene cafetería abierta 24 horas."
+    },
+    {
+     "q": "¿Cuánto cuesta una habitación?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 976 20 50 50 · 689 74 27 56 · hotelsauce@hotelsauce.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Su web da el mejor precio reservando en la web, por teléfono o por WhatsApp, con un 6% de descuento en estancias de 1 a 3 noches y un 10% de"
+    },
+    {
+     "q": "¿Hay gimnasio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 976 20 50 50 · 689 74 27 56 · hotelsauce@hotelsauce.com."
+    }
+   ],
+   "chips": [
+    "¿Qué tipos de habitación hay?",
+    "¿Hay parking?",
+    "¿Admiten mascotas?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "room1_n",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quins tipus d'habitació hi ha?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hi ha habitacions dobles (superiors amb dos o tres balcons i de confort), triples i familiars. La doble superior de tres balcons admet de 2 "
+    },
+    {
+     "q": "Hi ha wifi i caixa forta?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les habitacions tenen wifi, aire condicionat, TV, caixa forta i bany complet. L'hotel té recepció i cafeteria de 24 hores."
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "L'habitació està disponible a les 14:00 h i l'hora de sortida és a les 11:30 h. Si arribes abans, hi ha instal·lacions per deixar les malete"
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "La seva web indica que l'hotel no pot acomodar mascotes."
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "L'hotel té servei de pàrquing (amb preu per dia; consulta'l en reservar). Si véns en cotxe, pots arribar fins a la porta, on hi ha un gual r"
+    },
+    {
+     "q": "Hi ha esmorzars sense gluten?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Hi ha esmorzars dolços, salats, saludables o pasteleros, també sense gluten (aptes per a celíacs) i vegans, amb les melmelades premiades de "
+    },
+    {
+     "q": "Com arribo des de l'estació?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "És al carrer Espoz y Mina 33, 50003 Saragossa, al casc històric, a 100 metres de la plaça del Pilar. Des de l'estació d'autobusos o de tren,"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "La seva web dóna el millor preu reservant a la web, per telèfon o per WhatsApp, amb un 6% de descompte en estades d'1 a 3 nits i un 10% a pa"
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Telèfon fix +34 976 20 50 50; telèfon i WhatsApp +34 689 74 27 56 (24 hores); correu hotelsauce@hotelsauce.com."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Els seus termes d'ús indiquen com a denominació social EDIFICIO GARFE, S.L.U. (CIF B50113430), amb nom comercial Hotel Sauce i domicili al c"
+    },
+    {
+     "q": "Hi ha tarifes per a empreses?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "La seva web té un programa per a empreses i grups que treballen a Saragossa, amb tarifa personalitzada tot l'any, amb i sense esmorzar, i at"
+    },
+    {
+     "q": "Teniu bressol per a nadons?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sí: la seva web indica servei de bressol gratuït, sota petició en reservar, i també banyera per a nadons. Entre els serveis hi ha bressol i "
+    },
+    {
+     "q": "Teniu pastisseria?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Hotel Sauce es presenta com a «hotel pastisseria»: elabora els seus propis pastissos a la seva pastisseria i té cafeteria oberta 24 hores."
+    },
+    {
+     "q": "Quant costa una habitació?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 976 20 50 50 · 689 74 27 56 · hotelsauce@hotelsauce.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "La seva web dóna el millor preu reservant a la web, per telèfon o per WhatsApp, amb un 6% de descompte en estades d'1 a 3 nits i un 10% a pa"
+    },
+    {
+     "q": "Hi ha gimnàs?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 976 20 50 50 · 689 74 27 56 · hotelsauce@hotelsauce.com."
+    }
+   ],
+   "chips": [
+    "Quins tipus d'habitació hi ha?",
+    "Hi ha pàrquing?",
+    "Admeteu mascotes?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "svc4"
+   ],
+   "chat": [
+    {
+     "q": "What room types are there?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are double rooms (superior with two or three balconies, and comfort), triples and family rooms. The three-balcony superior double slee"
+    },
+    {
+     "q": "Is there wifi and a safe?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The rooms have wifi, air conditioning, TV, a safe and a full bathroom. The hotel has a 24-hour reception and cafe."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "The room is available from 14:00 and check-out is at 11:30. If you arrive earlier, there are facilities to leave your luggage; reception is "
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Their website says the hotel cannot accommodate pets."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "The hotel has a parking service (priced per day; ask when you book). If you come by car, you can drive up to the door, where there is a rese"
+    },
+    {
+     "q": "Are there gluten-free breakfasts?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "There are sweet, savoury, healthy or pastry breakfasts, also gluten-free (suitable for coeliacs) and vegan, with the hotel's award-winning m"
+    },
+    {
+     "q": "How do I get there from the station?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Calle Espoz y Mina 33, 50003 Zaragoza, in the old town, 100 metres from Plaza del Pilar. From the bus or train station, their websi"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Their website gives the best price when booking on the web, by phone or by WhatsApp, with 6% off stays of 1 to 3 nights and 10% off from 4 n"
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Landline +34 976 20 50 50; phone and WhatsApp +34 689 74 27 56 (24 hours); email hotelsauce@hotelsauce.com."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Their terms of use give EDIFICIO GARFE, S.L.U. (CIF B50113430) as the company name, trading as Hotel Sauce, with its address at Calle Espoz "
+    },
+    {
+     "q": "Are there business rates?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Their website has a programme for companies and groups working in Zaragoza, with a personalised rate all year, with and without breakfast, a"
+    },
+    {
+     "q": "Do you have a cot for babies?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Yes: their website lists a free cot service, on request when booking, and also a baby bath. Services include a cot and a high chair."
+    },
+    {
+     "q": "Do you have a pastry shop?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Hotel Sauce presents itself as a \"pastry-shop hotel\": it makes its own cakes in its pastry shop and has a cafe open 24 hours."
+    },
+    {
+     "q": "How much is a room?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 976 20 50 50 · 689 74 27 56 · hotelsauce@hotelsauce.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Their website gives the best price when booking on the web, by phone or by WhatsApp, with 6% off stays of 1 to 3 nights and 10% off from 4 n"
+    },
+    {
+     "q": "Is there a gym?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 976 20 50 50 · 689 74 27 56 · hotelsauce@hotelsauce.com."
+    }
+   ],
+   "chips": [
+    "What room types are there?",
+    "Is there parking?",
+    "Are pets allowed?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "svc4"
+   ],
+   "chat": [
+    {
+     "q": "Quels types de chambre y a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a des chambres doubles (supérieures avec deux ou trois balcons, et confort), triples et familiales. La double supérieure à trois balcon"
+    },
+    {
+     "q": "Y a-t-il le wifi et un coffre-fort ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les chambres disposent du wifi, de la climatisation, d'une TV, d'un coffre-fort et d'une salle de bain complète. L'hôtel a une réception et "
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "La chambre est disponible à 14:00 et l'heure de départ est 11:30. Si vous arrivez plus tôt, il y a de quoi déposer vos bagages ; la réceptio"
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Leur site indique que l'hôtel ne peut pas accueillir d'animaux."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "L'hôtel dispose d'un service de parking (tarif par jour ; renseignez-vous lors de la réservation). Si vous venez en voiture, vous pouvez all"
+    },
+    {
+     "q": "Y a-t-il des petits-déjeuners sans gluten ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Il y a des petits-déjeuners sucrés, salés, healthy ou pâtissiers, aussi sans gluten (adaptés aux cœliaques) et vegan, avec les confitures pr"
+    },
+    {
+     "q": "Comment venir depuis la gare ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il est situé calle Espoz y Mina 33, 50003 Saragosse, dans la vieille ville, à 100 mètres de la place du Pilar. Depuis la gare routière ou fe"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Leur site offre le meilleur prix en réservant sur le web, par téléphone ou par WhatsApp, avec 6% de remise pour 1 à 3 nuits et 10% à partir "
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Fixe +34 976 20 50 50 ; téléphone et WhatsApp +34 689 74 27 56 (24 h/24) ; e-mail hotelsauce@hotelsauce.com."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Leurs conditions d'utilisation indiquent EDIFICIO GARFE, S.L.U. (CIF B50113430) comme dénomination sociale, sous le nom commercial Hotel Sau"
+    },
+    {
+     "q": "Y a-t-il des tarifs pour les entreprises ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Leur site propose un programme pour les entreprises et groupes travaillant à Saragosse, avec tarif personnalisé toute l'année, avec ou sans "
+    },
+    {
+     "q": "Avez-vous un lit bébé ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Oui : leur site indique un service de lit bébé gratuit, sur demande lors de la réservation, ainsi qu'une baignoire pour bébés. Parmi les ser"
+    },
+    {
+     "q": "Avez-vous une pâtisserie ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "L'Hotel Sauce se présente comme un « hôtel pâtisserie » : il prépare ses propres gâteaux dans sa pâtisserie et a un café ouvert 24 h/24."
+    },
+    {
+     "q": "Combien coûte une chambre ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 976 20 50 50 · 689 74 27 56 · hotelsauce@hotelsauce.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Leur site offre le meilleur prix en réservant sur le web, par téléphone ou par WhatsApp, avec 6% de remise pour 1 à 3 nuits et 10% à partir "
+    },
+    {
+     "q": "Y a-t-il une salle de sport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 976 20 50 50 · 689 74 27 56 · hotelsauce@hotelsauce.com."
+    }
+   ],
+   "chips": [
+    "Quels types de chambre y a-t-il ?",
+    "Y a-t-il un parking ?",
+    "Les animaux sont-ils admis ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

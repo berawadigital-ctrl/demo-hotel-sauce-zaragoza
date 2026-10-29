@@ -1,0 +1,65 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-sauce-zaragoza",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T02:33:00+01:00",
+ "updated_at": "2026-10-29T02:36:00+01:00",
+ "business": {
+  "name": "Hotel Sauce",
+  "legal_name": "EDIFICIO GARFE, S.L.U.",
+  "registry_ids": [
+   "CIF B50113430",
+   "Registro Mercantil de Zaragoza, tomo 3696, folio 224, hoja 7570"
+  ],
+  "url": "https://www.hotelsauce.com/",
+  "domain": "hotelsauce.com",
+  "municipality": "Zaragoza",
+  "province": "Zaragoza",
+  "address": "Calle Espoz y Mina 33 · 50003 Zaragoza",
+  "phones": [
+   "976 20 50 50",
+   "689 74 27 56"
+  ],
+  "emails": [
+   "hotelsauce@hotelsauce.com"
+  ],
+  "sector": "hotel familiar con pasteleria en el casco historico"
+ },
+ "rating": {
+  "value": 4.6,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Hotel+Sauce/@41.6544198,-0.8777593,17z/data=!4m9!3m8!1s0xd5914eda470a821:0xb84c17be929a58bc!5m2!4m1!1i2!8m2!3d41.6544198!4d-0.8777593!16s%2Fg%2F1tx16pj0",
+  "date": "2026-10-29T02:28:24+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "email": "hotelsauce@hotelsauce.com",
+  "note": "La web del negocio reserva con un motor externo en su propio dominio; la demo usa solo contacto real (correo y telefono)."
+ },
+ "audit_original": {
+  "url": "https://www.hotelsauce.com/",
+  "date": "@CREATED@",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "primer tipo de negocio sin precedente: hotel urbano familiar con pasteleria (el modelo aprobado Cazorla Rural es alojamiento rural)",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
