@@ -1,0 +1,58 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelsauce.com/",
+ "read_at": "2026-10-29T02:34:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelsauce.com/",
+   "sha256": "7874ea5a9c63ad77310a7430ed4bcc2b8d0a8d6a544fe5ef0a049a7949965ff5",
+   "chars": 10671
+  },
+  {
+   "url": "https://www.hotelsauce.com/hotel-empresas-zaragoza/",
+   "sha256": "671e7805ec6ec6924f23963799a06c991f9560cd740e391db6ddef596c3b4940",
+   "chars": 6529
+  },
+  {
+   "url": "https://www.hotelsauce.com/hotel-zaragoza/habitaciones/",
+   "sha256": "05b60ded4e06a004cfa22a76c96045d5965bcc59c3785dd241263ed14e9f2a76",
+   "chars": 11646
+  },
+  {
+   "url": "https://www.hotelsauce.com/hotel-zaragoza/localizacion/",
+   "sha256": "1d57aedce466def49d6d9f53c3ea1ef2e4064f0184c291a4f797f1448a6057d2",
+   "chars": 9472
+  },
+  {
+   "url": "https://www.hotelsauce.com/hotel-zaragoza/servicios/",
+   "sha256": "9db1f8157c6e22423a4d1f223a5a8974b1a685460f32801002d7b22749e1548a",
+   "chars": 6343
+  },
+  {
+   "url": "https://www.hotelsauce.com/terminos-condiciones-uso/",
+   "sha256": "6bd693d8958e156171bfaf5c47b9479329589772df10f8cc38f550323221630b",
+   "chars": 16712
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelsauce.com/aviso-legal/",
+  "https://www.hotelsauce.com/blog/",
+  "https://www.hotelsauce.com/compromiso-transparencia/",
+  "https://www.hotelsauce.com/en/",
+  "https://www.hotelsauce.com/en/hotel-saragossa/rooms/",
+  "https://www.hotelsauce.com/fr/",
+  "https://www.hotelsauce.com/hotel-zaragoza/desayunos/",
+  "https://www.hotelsauce.com/hotel-zaragoza/desayunos/sin-gluten/",
+  "https://www.hotelsauce.com/hotel-zaragoza/galeria/",
+  "https://www.hotelsauce.com/hotel-zaragoza/historia/",
+  "https://www.hotelsauce.com/hotel-zaragoza/ofertas-descuentos-club-saucepolis/",
+  "https://www.hotelsauce.com/hotel-zaragoza/opiniones/",
+  "https://www.hotelsauce.com/hotel-zaragoza/premios-prensa/",
+  "https://www.hotelsauce.com/informacion/",
+  "https://www.hotelsauce.com/informacion/faqs/hotel-sauce-zaragoza/",
+  "https://www.hotelsauce.com/mapa-web/",
+  "https://www.hotelsauce.com/politica-cookies/",
+  "https://www.hotelsauce.com/politica-privacidad/"
+ ]
+}

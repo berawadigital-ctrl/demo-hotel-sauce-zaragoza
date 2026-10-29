@@ -1,0 +1,842 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-sauce-zaragoza",
+ "source_site": "https://www.hotelsauce.com/",
+ "source_read_at": "2026-10-29T02:34:00+01:00",
+ "note": "Respuestas solo con datos publicados en hotelsauce.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "tipos de",
+     "que habitaciones",
+     "cuantas habitaciones",
+     "familiar",
+     "triple",
+     "doble",
+     "individual",
+     "balcon",
+     "capacidad",
+     "cuantas personas"
+    ],
+    "ca": [
+     "tipus d",
+     "quines habitacions",
+     "quantes habitacions",
+     "familiar",
+     "triple",
+     "doble",
+     "individual",
+     "balco",
+     "capacitat",
+     "quantes persones"
+    ],
+    "en": [
+     "room types",
+     "types of",
+     "what rooms",
+     "how many rooms",
+     "family",
+     "triple",
+     "double",
+     "single",
+     "balcon",
+     "capacity",
+     "how many guests"
+    ],
+    "fr": [
+     "types de",
+     "quelles chambres",
+     "combien de chambres",
+     "familiale",
+     "triple",
+     "double",
+     "individuelle",
+     "balcon",
+     "capacite",
+     "combien de personnes"
+    ]
+   },
+   "a": {
+    "es": "Hay habitaciones dobles (superiores con dos o tres balcones y de confort), triples y familiares. La doble superior de tres balcones admite de 2 a 4 personas y la familiar, 3 o 4. Su web indica también opciones con cuna o camas extras.",
+    "ca": "Hi ha habitacions dobles (superiors amb dos o tres balcons i de confort), triples i familiars. La doble superior de tres balcons admet de 2 a 4 persones i la familiar, 3 o 4. La seva web indica també opcions amb bressol o llits extra.",
+    "en": "There are double rooms (superior with two or three balconies, and comfort), triples and family rooms. The three-balcony superior double sleeps 2 to 4 guests and the family room, 3 or 4. Their website also mentions options with a cot or extra beds.",
+    "fr": "Il y a des chambres doubles (supérieures avec deux ou trois balcons, et confort), triples et familiales. La double supérieure à trois balcons accueille de 2 à 4 personnes et la familiale, 3 ou 4. Leur site mentionne aussi des options avec lit bébé ou lits d'appoint."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelsauce.com/",
+     "quote": "Dobles, Familiares, Individuales, con Cuna o con Camas Extras"
+    },
+    {
+     "url": "https://www.hotelsauce.com/hotel-zaragoza/habitaciones/",
+     "quote": "Habitación Doble Superior 3 Balcones Habitación para dos, tres o cuatro personas"
+    },
+    {
+     "url": "https://www.hotelsauce.com/hotel-zaragoza/habitaciones/",
+     "quote": "Habitación Familiar Habitación para tres o cuatro personas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "wifi",
+     "wi fi",
+     "internet",
+     "caja fuerte",
+     "television",
+     " tv",
+     "aire acondicionado",
+     "climatizacion",
+     "bano",
+     "equipamiento",
+     "que incluye"
+    ],
+    "ca": [
+     "wifi",
+     "wi fi",
+     "internet",
+     "caixa forta",
+     "televisio",
+     " tv",
+     "aire condicionat",
+     "climatitzacio",
+     "bany",
+     "equipament",
+     "que inclou"
+    ],
+    "en": [
+     "wifi",
+     "wi fi",
+     "internet",
+     "safe",
+     "television",
+     " tv",
+     "air conditioning",
+     "bathroom",
+     "equipment",
+     "what is included"
+    ],
+    "fr": [
+     "wifi",
+     "wi fi",
+     "internet",
+     "coffre fort",
+     "television",
+     " tv",
+     "climatisation",
+     "salle de bain",
+     "equipement",
+     "qu est ce qui est inclus"
+    ]
+   },
+   "a": {
+    "es": "Las habitaciones tienen wifi, aire acondicionado, TV, caja fuerte y baño completo. El hotel tiene recepción y cafetería de 24 horas.",
+    "ca": "Les habitacions tenen wifi, aire condicionat, TV, caixa forta i bany complet. L'hotel té recepció i cafeteria de 24 hores.",
+    "en": "The rooms have wifi, air conditioning, TV, a safe and a full bathroom. The hotel has a 24-hour reception and cafe.",
+    "fr": "Les chambres disposent du wifi, de la climatisation, d'une TV, d'un coffre-fort et d'une salle de bain complète. L'hôtel a une réception et un café ouverts 24 h/24."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelsauce.com/hotel-zaragoza/habitaciones/",
+     "quote": "WIFI aire ACONDICIONADO TV CAJA FUERTE BAÑO COMPLETO"
+    },
+    {
+     "url": "https://www.hotelsauce.com/hotel-zaragoza/habitaciones/",
+     "quote": "Cafetería 24 horas"
+    },
+    {
+     "url": "https://www.hotelsauce.com/",
+     "quote": "Nuestra recepción está abierta 24 horas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "check-in y check-out",
+   "keys": {
+    "es": [
+     "check in",
+     "check out",
+     "checkin",
+     "checkout",
+     "hora de entrada",
+     "hora de salida",
+     "maletas",
+     "equipaje"
+    ],
+    "ca": [
+     "check in",
+     "check out",
+     "checkin",
+     "checkout",
+     "hora d entrada",
+     "hora de sortida",
+     "maletes",
+     "equipatge"
+    ],
+    "en": [
+     "check in",
+     "check out",
+     "checkin",
+     "checkout",
+     "arrival time",
+     "departure time",
+     "luggage",
+     "baggage"
+    ],
+    "fr": [
+     "check in",
+     "check out",
+     "checkin",
+     "checkout",
+     "heure d arrivee",
+     "heure de depart",
+     "bagages",
+     "valises"
+    ]
+   },
+   "a": {
+    "es": "La habitación está disponible a las 14:00 h y la hora de salida es a las 11:30 h. Si llegas antes, hay instalaciones para dejar las maletas; la recepción abre las 24 horas.",
+    "ca": "L'habitació està disponible a les 14:00 h i l'hora de sortida és a les 11:30 h. Si arribes abans, hi ha instal·lacions per deixar les maletes; la recepció obre les 24 hores.",
+    "en": "The room is available from 14:00 and check-out is at 11:30. If you arrive earlier, there are facilities to leave your luggage; reception is open 24 hours.",
+    "fr": "La chambre est disponible à 14:00 et l'heure de départ est 11:30. Si vous arrivez plus tôt, il y a de quoi déposer vos bagages ; la réception est ouverte 24 h/24."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelsauce.com/",
+     "quote": "Su habitación estará disponible a las 14:00h"
+    },
+    {
+     "url": "https://www.hotelsauce.com/",
+     "quote": "La hora de salida de la habitación es a las 11:30h de la mañana"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "gato",
+     "animal"
+    ],
+    "ca": [
+     "mascot",
+     "gos",
+     "gat",
+     "animal"
+    ],
+    "en": [
+     "pet",
+     "dog",
+     " cat ",
+     "animal"
+    ],
+    "fr": [
+     "animaux",
+     "chien",
+     "chat ",
+     "animal"
+    ]
+   },
+   "a": {
+    "es": "Su web indica que el hotel no puede acomodar mascotas.",
+    "ca": "La seva web indica que l'hotel no pot acomodar mascotes.",
+    "en": "Their website says the hotel cannot accommodate pets.",
+    "fr": "Leur site indique que l'hôtel ne peut pas accueillir d'animaux."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelsauce.com/",
+     "quote": "Desafortunadamente, el Hotel Sauce no puede acomodar mascotas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparcar",
+     "aparcamiento",
+     "garaje",
+     "coche",
+     "vado"
+    ],
+    "ca": [
+     "parking",
+     "pàrquing",
+     "parquing",
+     "aparcar",
+     "aparcament",
+     "garatge",
+     "cotxe"
+    ],
+    "en": [
+     "parking",
+     "park",
+     "garage",
+     "car "
+    ],
+    "fr": [
+     "parking",
+     "stationn",
+     "garage",
+     "voiture"
+    ]
+   },
+   "a": {
+    "es": "El hotel tiene servicio de parking (con precio por día; consúltalo al reservar). Si vienes en coche, puedes llegar hasta la puerta, donde hay un vado reservado para parar y descargar el equipaje, y en el hotel te darán indicaciones para llegar al parking.",
+    "ca": "L'hotel té servei de pàrquing (amb preu per dia; consulta'l en reservar). Si véns en cotxe, pots arribar fins a la porta, on hi ha un gual reservat per parar i descarregar l'equipatge, i a l'hotel t'indicaran com arribar al pàrquing.",
+    "en": "The hotel has a parking service (priced per day; ask when you book). If you come by car, you can drive up to the door, where there is a reserved bay to stop and unload luggage, and at the hotel they will give you directions to the car park.",
+    "fr": "L'hôtel dispose d'un service de parking (tarif par jour ; renseignez-vous lors de la réservation). Si vous venez en voiture, vous pouvez aller jusqu'à la porte, où une zone réservée permet de s'arrêter et de décharger les bagages, et à l'hôtel on vous indiquera comment rejoindre le parking."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelsauce.com/hotel-zaragoza/servicios/",
+     "quote": "WIFI Gratuito Parking Recepción 24 Horas"
+    },
+    {
+     "url": "https://www.hotelsauce.com/hotel-zaragoza/localizacion/",
+     "quote": "puedes llegar hasta la puerta del hotel donde tenemos un vado reservado para parar y descargar el equipaje"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "desayunos",
+   "keys": {
+    "es": [
+     "desayuno",
+     "gluten",
+     "celiac",
+     "vegan",
+     "tostada",
+     "mermelada",
+     "cafe de especialidad"
+    ],
+    "ca": [
+     "esmorzar",
+     "gluten",
+     "celiac",
+     "vegan",
+     "torrada",
+     "melmelada",
+     "cafe d especialitat"
+    ],
+    "en": [
+     "breakfast",
+     "gluten",
+     "celiac",
+     "vegan",
+     "toast",
+     "marmalade",
+     "specialty coffee"
+    ],
+    "fr": [
+     "petit dejeuner",
+     "gluten",
+     "celiaque",
+     "vegan",
+     "tartine",
+     "confiture",
+     "cafe de specialite"
+    ]
+   },
+   "a": {
+    "es": "Hay desayunos dulces, salados, saludables o pasteleros, también sin gluten (aptos para celiacos) y veganos, con las mermeladas premiadas del hotel. Consulta precios y horarios en su web o en recepción.",
+    "ca": "Hi ha esmorzars dolços, salats, saludables o pasteleros, també sense gluten (aptes per a celíacs) i vegans, amb les melmelades premiades de l'hotel. Consulta preus i horaris a la seva web o a recepció.",
+    "en": "There are sweet, savoury, healthy or pastry breakfasts, also gluten-free (suitable for coeliacs) and vegan, with the hotel's award-winning marmalades. Check prices and hours on their website or at reception.",
+    "fr": "Il y a des petits-déjeuners sucrés, salés, healthy ou pâtissiers, aussi sans gluten (adaptés aux cœliaques) et vegan, avec les confitures primées de l'hôtel. Renseignez-vous sur les prix et horaires sur leur site ou à la réception."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelsauce.com/",
+     "quote": "Desayunos Dulces, Salados, Saludables o Pasteleros También Sin Gluten y Veganos"
+    },
+    {
+     "url": "https://www.hotelsauce.com/",
+     "quote": "Sí, tenemos gran variedad de desayunos para veganos"
+    },
+    {
+     "url": "https://www.hotelsauce.com/",
+     "quote": "Sí, tenemos una gran variedad de desayunos sin gluten aptos para celiacos"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "ubicación y transporte",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "situado",
+     "mapa",
+     "llegar",
+     "como llego",
+     "autobus",
+     "estacion",
+     "aeropuerto",
+     "pilar",
+     "centro",
+     "calle"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "ubicacio",
+     "situat",
+     "mapa",
+     "arribar",
+     "com arribo",
+     "autobus",
+     "estacio",
+     "aeroport",
+     "pilar",
+     "centre",
+     "carrer"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "located",
+     "map",
+     "get there",
+     "how do i get",
+     "bus ",
+     "station",
+     "airport",
+     "pilar",
+     "centre",
+     "street"
+    ],
+    "fr": [
+     " ou est",
+     "adresse",
+     "situe",
+     "sur la carte",
+     "venir",
+     "comment arriver",
+     "bus ",
+     "gare",
+     "aeroport",
+     "pilar",
+     "centre",
+     "rue"
+    ]
+   },
+   "a": {
+    "es": "Está en la calle Espoz y Mina 33, 50003 Zaragoza, en el casco histórico, a 100 metros de la plaza del Pilar. Desde la estación de autobuses o de tren, su web indica coger la línea 34 del autobús urbano; el taxi sale a la puerta de la estación.",
+    "ca": "És al carrer Espoz y Mina 33, 50003 Saragossa, al casc històric, a 100 metres de la plaça del Pilar. Des de l'estació d'autobusos o de tren, la seva web indica agafar la línia 34 de l'autobús urbà; el taxi surt a la porta de l'estació.",
+    "en": "It is at Calle Espoz y Mina 33, 50003 Zaragoza, in the old town, 100 metres from Plaza del Pilar. From the bus or train station, their website says to take urban bus line 34; taxis wait at the station exit.",
+    "fr": "Il est situé calle Espoz y Mina 33, 50003 Saragosse, dans la vieille ville, à 100 mètres de la place du Pilar. Depuis la gare routière ou ferroviaire, leur site indique de prendre la ligne 34 du bus urbain ; les taxis attendent à la sortie de la gare."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelsauce.com/hotel-zaragoza/localizacion/",
+     "quote": "Estamos en el centro histórico de Zaragoza a 100 metros de la Plaza del Pilar"
+    },
+    {
+     "url": "https://www.hotelsauce.com/hotel-zaragoza/localizacion/",
+     "quote": "cogeremos la línea 34 del autobús urbano de la empresa Tuzsa"
+    },
+    {
+     "url": "https://www.hotelsauce.com/hotel-zaragoza/localizacion/",
+     "quote": "Si prefiere ir en taxi para llegar a nuestro hotel, podrá tomar uno a la salida de la estación"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirmame",
+     "libre",
+     "fechas",
+     "descuento",
+     "oferta",
+     "saucepolis",
+     "pagar",
+     "pago"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "confirma m",
+     "lliure",
+     "dates",
+     "descompte",
+     "oferta",
+     "saucepolis",
+     "pagar",
+     "pagament"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm",
+     "free room",
+     "dates",
+     "discount",
+     "offer",
+     "saucepolis",
+     "pay"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirmez",
+     "libre",
+     "dates",
+     "remise",
+     "reduction",
+     "offre",
+     "saucepolis",
+     "payer",
+     "paiement"
+    ]
+   },
+   "a": {
+    "es": "Su web da el mejor precio reservando en la web, por teléfono o por WhatsApp, con un 6% de descuento en estancias de 1 a 3 noches y un 10% desde 4 noches con el código SAUCEPOLIS. El pago se hace en el hotel el día de llegada. Aquí puedes escribir a hotelsauce@hotelsauce.com o llamar al +34 976 20 50 50. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "La seva web dóna el millor preu reservant a la web, per telèfon o per WhatsApp, amb un 6% de descompte en estades d'1 a 3 nits i un 10% a partir de 4 nits amb el codi SAUCEPOLIS. El pagament es fa a l'hotel el dia d'arribada. Aquí pots escriure a hotelsauce@hotelsauce.com o trucar al +34 976 20 50 50. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "Their website gives the best price when booking on the web, by phone or by WhatsApp, with 6% off stays of 1 to 3 nights and 10% off from 4 nights with the code SAUCEPOLIS. Payment is made at the hotel on the day of arrival. Here you can email hotelsauce@hotelsauce.com or call +34 976 20 50 50. This assistant does not confirm availability or bookings.",
+    "fr": "Leur site offre le meilleur prix en réservant sur le web, par téléphone ou par WhatsApp, avec 6% de remise pour 1 à 3 nuits et 10% à partir de 4 nuits avec le code SAUCEPOLIS. Le paiement se fait à l'hôtel le jour d'arrivée. Ici vous pouvez écrire à hotelsauce@hotelsauce.com ou appeler le +34 976 20 50 50. Cet assistant ne confirme ni disponibilité ni réservation."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelsauce.com/",
+     "quote": "El Mejor Precio reservando en la Web, por Teléfono o WhatsApp"
+    },
+    {
+     "url": "https://www.hotelsauce.com/hotel-zaragoza/servicios/",
+     "quote": "6% de descuento Para todo tipo de tarifas con estancias de 1, 2 ó 3 noches con CODIGO SAUCEPOLIS"
+    },
+    {
+     "url": "https://www.hotelsauce.com/hotel-zaragoza/servicios/",
+     "quote": "10% de descuento Para todo tipo de tarifas con estancias a partir de 4 noches con CODIGO SAUCEPOLIS"
+    },
+    {
+     "url": "https://www.hotelsauce.com/",
+     "quote": "El pago del importe total de su estancia se realiza en efectivo o mediante tarjeta de crédito el día de llegada en la recepción del Hotel Sauce"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto",
+     "contactar",
+     "whatsapp"
+    ],
+    "ca": [
+     "telefon",
+     "trucar",
+     "correu",
+     "email",
+     "contacte",
+     "contactar",
+     "whatsapp"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     " mail",
+     "contact",
+     "whatsapp"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "email",
+     " mail",
+     "contact",
+     "whatsapp"
+    ]
+   },
+   "a": {
+    "es": "Teléfono fijo +34 976 20 50 50; teléfono y WhatsApp +34 689 74 27 56 (24 horas); correo hotelsauce@hotelsauce.com.",
+    "ca": "Telèfon fix +34 976 20 50 50; telèfon i WhatsApp +34 689 74 27 56 (24 hores); correu hotelsauce@hotelsauce.com.",
+    "en": "Landline +34 976 20 50 50; phone and WhatsApp +34 689 74 27 56 (24 hours); email hotelsauce@hotelsauce.com.",
+    "fr": "Fixe +34 976 20 50 50 ; téléphone et WhatsApp +34 689 74 27 56 (24 h/24) ; e-mail hotelsauce@hotelsauce.com."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelsauce.com/",
+     "quote": "Teléfono Fijo: +34976205050"
+    },
+    {
+     "url": "https://www.hotelsauce.com/",
+     "quote": "Whatsapp: +34 689 74 27 56 (24 horas)"
+    },
+    {
+     "url": "https://www.hotelsauce.com/",
+     "quote": "Email: hotelsauce@hotelsauce.com"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif",
+     "quien es"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif",
+     "qui es"
+    ],
+    "en": [
+     "owner",
+     "owns",
+     "legal name",
+     "cif",
+     "who is"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif",
+     "qui est"
+    ]
+   },
+   "a": {
+    "es": "Sus términos de uso indican como denominación social EDIFICIO GARFE, S.L.U. (CIF B50113430), con nombre comercial Hotel Sauce y domicilio en la calle Espoz y Mina 33, Zaragoza.",
+    "ca": "Els seus termes d'ús indiquen com a denominació social EDIFICIO GARFE, S.L.U. (CIF B50113430), amb nom comercial Hotel Sauce i domicili al carrer Espoz y Mina 33, Saragossa.",
+    "en": "Their terms of use give EDIFICIO GARFE, S.L.U. (CIF B50113430) as the company name, trading as Hotel Sauce, with its address at Calle Espoz y Mina 33, Zaragoza.",
+    "fr": "Leurs conditions d'utilisation indiquent EDIFICIO GARFE, S.L.U. (CIF B50113430) comme dénomination sociale, sous le nom commercial Hotel Sauce, avec siège calle Espoz y Mina 33, Saragosse."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelsauce.com/terminos-condiciones-uso/",
+     "quote": "Denominación Social: EDIFICIO GARFE, S.L.U."
+    },
+    {
+     "url": "https://www.hotelsauce.com/terminos-condiciones-uso/",
+     "quote": "NIF / CIF: B50113430"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "empresas y grupos",
+   "keys": {
+    "es": [
+     "empresa",
+     "grupo",
+     "corporativ",
+     "negocio",
+     "trabajo",
+     "reunion",
+     "sala de reuniones",
+     "evento"
+    ],
+    "ca": [
+     "empresa",
+     "empreses",
+     "grup",
+     "grups",
+     "corporatiu",
+     "negoci",
+     "feina",
+     "reunio",
+     "sala de reunions",
+     "esdeveniment"
+    ],
+    "en": [
+     "business",
+     "company",
+     "group",
+     "corporate",
+     "work",
+     "meeting",
+     "event"
+    ],
+    "fr": [
+     "entreprise",
+     "groupe",
+     "affaires",
+     "travail",
+     "reunion",
+     "salle de reunion",
+     "evenement"
+    ]
+   },
+   "a": {
+    "es": "Su web tiene un programa para empresas y grupos que trabajan en Zaragoza, con tarifa personalizada todo el año, con y sin desayuno, y atención directa. Escribe a reservas@hotelsauce.com o llama al +34 976 20 50 50. También tiene sala de reuniones.",
+    "ca": "La seva web té un programa per a empreses i grups que treballen a Saragossa, amb tarifa personalitzada tot l'any, amb i sense esmorzar, i atenció directa. Escriu a reservas@hotelsauce.com o truca al +34 976 20 50 50. També té sala de reunions.",
+    "en": "Their website has a programme for companies and groups working in Zaragoza, with a personalised rate all year, with and without breakfast, and direct service. Email reservas@hotelsauce.com or call +34 976 20 50 50. It also has a meeting room.",
+    "fr": "Leur site propose un programme pour les entreprises et groupes travaillant à Saragosse, avec tarif personnalisé toute l'année, avec ou sans petit-déjeuner, et contact direct. Écrivez à reservas@hotelsauce.com ou appelez le +34 976 20 50 50. Il y a aussi une salle de réunion."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelsauce.com/hotel-empresas-zaragoza/",
+     "quote": "programa diseñado y dirigido específicamente a empresas y grupos que trabajan en Zaragoza"
+    },
+    {
+     "url": "https://www.hotelsauce.com/hotel-empresas-zaragoza/",
+     "quote": "Tarifa personalizada durante todo el año, con y sin desayuno incluido"
+    },
+    {
+     "url": "https://www.hotelsauce.com/hotel-zaragoza/servicios/",
+     "quote": "Sala de Reuniones"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "cuna y bebés",
+   "keys": {
+    "es": [
+     "cuna",
+     "bebe",
+     "trona",
+     "ninos",
+     "pequenos"
+    ],
+    "ca": [
+     "bressol",
+     "nadó",
+     "nado",
+     "trona",
+     "nens",
+     "petits"
+    ],
+    "en": [
+     "cot",
+     "crib",
+     "baby",
+     "babies",
+     "high chair",
+     "children",
+     "kids"
+    ],
+    "fr": [
+     "lit bebe",
+     "bebe",
+     "chaise haute",
+     "enfants",
+     "berceau"
+    ]
+   },
+   "a": {
+    "es": "Sí: su web indica servicio de cuna gratuito, bajo petición al reservar, y también bañera para bebés. Entre los servicios figuran cuna y trona.",
+    "ca": "Sí: la seva web indica servei de bressol gratuït, sota petició en reservar, i també banyera per a nadons. Entre els serveis hi ha bressol i trona.",
+    "en": "Yes: their website lists a free cot service, on request when booking, and also a baby bath. Services include a cot and a high chair.",
+    "fr": "Oui : leur site indique un service de lit bébé gratuit, sur demande lors de la réservation, ainsi qu'une baignoire pour bébés. Parmi les services figurent lit bébé et chaise haute."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelsauce.com/",
+     "quote": "Sí, tenemos servicio de cuna gratuito"
+    },
+    {
+     "url": "https://www.hotelsauce.com/hotel-zaragoza/servicios/",
+     "quote": "Cuna Trona"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K13",
+   "topic": "pastelería y cafetería",
+   "keys": {
+    "es": [
+     "pasteleria",
+     "tarta",
+     "pastel",
+     "cafeteria",
+     "cafe ",
+     "dulce",
+     "merienda"
+    ],
+    "ca": [
+     "pastisseria",
+     "pastis",
+     "cafeteria",
+     "cafe ",
+     "dolc",
+     "berenar"
+    ],
+    "en": [
+     "pastry",
+     "cake",
+     "cafe ",
+     "coffee shop",
+     "sweet",
+     "afternoon"
+    ],
+    "fr": [
+     "patisserie",
+     "gateau",
+     "cafeteria",
+     "cafe ",
+     "sucre",
+     "gouter"
+    ]
+   },
+   "a": {
+    "es": "Hotel Sauce se presenta como «hotel pastelería»: elabora sus propias tartas en su pastelería y tiene cafetería abierta 24 horas.",
+    "ca": "Hotel Sauce es presenta com a «hotel pastisseria»: elabora els seus propis pastissos a la seva pastisseria i té cafeteria oberta 24 hores.",
+    "en": "Hotel Sauce presents itself as a \"pastry-shop hotel\": it makes its own cakes in its pastry shop and has a cafe open 24 hours.",
+    "fr": "L'Hotel Sauce se présente comme un « hôtel pâtisserie » : il prépare ses propres gâteaux dans sa pâtisserie et a un café ouvert 24 h/24."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelsauce.com/",
+     "quote": "Hotel pastelería en el centro de Zaragoza"
+    },
+    {
+     "url": "https://www.hotelsauce.com/",
+     "quote": "las deliciosas tartas que elaboramos en nuestra pastelería"
+    },
+    {
+     "url": "https://www.hotelsauce.com/hotel-zaragoza/habitaciones/",
+     "quote": "Cafetería 24 horas"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
